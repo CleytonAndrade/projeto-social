@@ -1,3 +1,3 @@
 # Projeto:Redes sociais
 
-Projeto criado para o curso em video [acesse aqui] (https://cleytonandrade.github.io/projeto-social/)
+Projeto de um site com links para redes sociais em HTML e CSS puros, criado para o curso em video [clique aqui para acessar](https://cleytonandrade.github.io/projeto-social/)
