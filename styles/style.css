@@ -31,6 +31,7 @@ section#telefone {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    
 }
 
 iframe#tela {
@@ -39,6 +40,7 @@ iframe#tela {
     left: 21px;
     width: 269px;
     height: 474px;
+    border-radius: 2px;
 }
 
 section#redes-sociais {
